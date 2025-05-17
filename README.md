@@ -18,11 +18,3 @@ A stylish and responsive currency converter web application that allows users to
 - JavaScript (Vanilla)
 - [Exchange Rate API](https://www.exchangerate-api.com/) _(or any live exchange API)_
 
-## 📂 How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-repository/currency-converter.git
-   cd currency-converter
-   ```
